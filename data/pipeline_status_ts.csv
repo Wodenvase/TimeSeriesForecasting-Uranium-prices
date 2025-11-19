@@ -1,0 +1,208 @@
+Year,Status,Reactor Count
+0,Under Construction,63
+1954,Permanent Shutdown,1
+1955,Permanent Shutdown,1
+1956,Permanent Shutdown,2
+1957,Permanent Shutdown,5
+1958,Permanent Shutdown,6
+1959,Permanent Shutdown,11
+1960,Permanent Shutdown,15
+1961,Decommissioning Completed,1
+1961,Permanent Shutdown,15
+1962,Decommissioning Completed,1
+1962,Permanent Shutdown,24
+1963,Decommissioning Completed,1
+1963,Permanent Shutdown,33
+1964,Decommissioning Completed,1
+1964,Permanent Shutdown,40
+1965,Decommissioning Completed,1
+1965,Permanent Shutdown,47
+1966,Decommissioning Completed,1
+1966,Permanent Shutdown,55
+1967,Decommissioning Completed,1
+1967,Permanent Shutdown,65
+1968,Decommissioning Completed,1
+1968,Permanent Shutdown,70
+1969,Decommissioning Completed,2
+1969,Operational,3
+1969,Permanent Shutdown,72
+1969,Suspended Operation,2
+1970,Decommissioning Completed,2
+1970,Operational,6
+1970,Permanent Shutdown,74
+1970,Suspended Operation,2
+1971,Decommissioning Completed,2
+1971,Operational,9
+1971,Permanent Shutdown,87
+1971,Suspended Operation,2
+1972,Decommissioning Completed,1
+1972,Operational,15
+1972,Permanent Shutdown,96
+1972,Suspended Operation,3
+1973,Decommissioning Completed,2
+1973,Operational,23
+1973,Permanent Shutdown,105
+1973,Suspended Operation,3
+1974,Decommissioning Completed,2
+1974,Operational,35
+1974,Permanent Shutdown,118
+1974,Suspended Operation,3
+1975,Decommissioning Completed,1
+1975,Operational,44
+1975,Permanent Shutdown,121
+1975,Suspended Operation,3
+1976,Decommissioning Completed,1
+1976,Operational,53
+1976,Permanent Shutdown,131
+1976,Suspended Operation,3
+1977,Decommissioning Completed,1
+1977,Operational,58
+1977,Permanent Shutdown,141
+1977,Suspended Operation,3
+1978,Decommissioning Completed,1
+1978,Operational,66
+1978,Permanent Shutdown,147
+1978,Suspended Operation,4
+1979,Decommissioning Completed,1
+1979,Operational,70
+1979,Permanent Shutdown,150
+1979,Suspended Operation,4
+1980,Decommissioning Completed,1
+1980,Operational,88
+1980,Permanent Shutdown,151
+1980,Suspended Operation,4
+1981,Decommissioning Completed,1
+1981,Operational,106
+1981,Permanent Shutdown,154
+1981,Suspended Operation,4
+1982,Decommissioning Completed,1
+1982,Operational,118
+1982,Permanent Shutdown,159
+1982,Suspended Operation,4
+1983,Decommissioning Completed,1
+1983,Operational,133
+1983,Permanent Shutdown,164
+1983,Suspended Operation,5
+1984,Decommissioning Completed,1
+1984,Operational,160
+1984,Permanent Shutdown,168
+1984,Suspended Operation,5
+1985,Decommissioning Completed,1
+1985,Operational,189
+1985,Permanent Shutdown,167
+1985,Suspended Operation,6
+1986,Operational,210
+1986,Permanent Shutdown,170
+1986,Suspended Operation,7
+1987,Operational,230
+1987,Permanent Shutdown,170
+1987,Suspended Operation,8
+1988,Operational,241
+1988,Permanent Shutdown,168
+1988,Suspended Operation,9
+1989,Operational,250
+1989,Permanent Shutdown,165
+1989,Suspended Operation,10
+1990,Operational,258
+1990,Permanent Shutdown,158
+1990,Suspended Operation,12
+1991,Operational,262
+1991,Permanent Shutdown,144
+1991,Suspended Operation,12
+1992,Operational,267
+1992,Permanent Shutdown,138
+1992,Suspended Operation,13
+1993,Operational,273
+1993,Permanent Shutdown,135
+1993,Suspended Operation,16
+1994,Operational,278
+1994,Permanent Shutdown,135
+1994,Suspended Operation,16
+1995,Operational,282
+1995,Permanent Shutdown,133
+1995,Suspended Operation,16
+1996,Operational,286
+1996,Permanent Shutdown,133
+1996,Suspended Operation,18
+1997,Operational,289
+1997,Permanent Shutdown,131
+1997,Suspended Operation,18
+1998,Operational,293
+1998,Permanent Shutdown,128
+1998,Suspended Operation,18
+1999,Operational,297
+1999,Permanent Shutdown,123
+1999,Suspended Operation,18
+2000,Operational,303
+2000,Permanent Shutdown,121
+2000,Suspended Operation,18
+2001,Operational,305
+2001,Permanent Shutdown,118
+2001,Suspended Operation,19
+2002,Operational,311
+2002,Permanent Shutdown,118
+2002,Suspended Operation,19
+2003,Operational,313
+2003,Permanent Shutdown,113
+2003,Suspended Operation,19
+2004,Operational,317
+2004,Permanent Shutdown,107
+2004,Suspended Operation,20
+2005,Operational,319
+2005,Permanent Shutdown,102
+2005,Suspended Operation,22
+2006,Operational,321
+2006,Permanent Shutdown,100
+2006,Suspended Operation,22
+2007,Operational,324
+2007,Permanent Shutdown,92
+2007,Suspended Operation,22
+2008,Operational,324
+2008,Permanent Shutdown,91
+2008,Suspended Operation,22
+2009,Operational,325
+2009,Permanent Shutdown,89
+2009,Suspended Operation,23
+2010,Operational,330
+2010,Permanent Shutdown,86
+2010,Suspended Operation,23
+2011,Operational,334
+2011,Permanent Shutdown,84
+2011,Suspended Operation,23
+2012,Operational,339
+2012,Permanent Shutdown,71
+2012,Suspended Operation,23
+2013,Operational,343
+2013,Permanent Shutdown,68
+2013,Suspended Operation,23
+2014,Operational,348
+2014,Permanent Shutdown,62
+2014,Suspended Operation,23
+2015,Operational,358
+2015,Permanent Shutdown,60
+2015,Suspended Operation,23
+2016,Operational,368
+2016,Permanent Shutdown,53
+2016,Suspended Operation,23
+2017,Operational,372
+2017,Permanent Shutdown,50
+2017,Suspended Operation,23
+2018,Operational,381
+2018,Permanent Shutdown,46
+2018,Suspended Operation,23
+2019,Operational,387
+2019,Permanent Shutdown,39
+2019,Suspended Operation,23
+2020,Operational,392
+2020,Permanent Shutdown,28
+2020,Suspended Operation,23
+2021,Operational,398
+2021,Permanent Shutdown,22
+2021,Suspended Operation,23
+2022,Operational,404
+2022,Permanent Shutdown,12
+2022,Suspended Operation,2
+2023,Operational,409
+2023,Permanent Shutdown,8
+2024,Operational,415
+2024,Permanent Shutdown,4
